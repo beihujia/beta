@@ -12,7 +12,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://app.beihujia.com.cn:7081/beta/bhj.ipa</string> 
+            <string>http://app.beihujia.com.cn:9081/ios_IOSSetupAction_publicDownloadIPA.do</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -20,7 +20,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://app.beihujia.com.cn:7081/beta/appicon.png</string> 
+            <string>http://app.beihujia.com.cn:9081/images/ios/appicon.png</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -28,7 +28,7 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <string>http://app.beihujia.com.cn:7081/beta/appicon.png</string> 
+            <string>http://app.beihujia.com.cn:9081/images/ios/appicon.png</string> 
           </dict> 
         </array>
         <key>metadata</key>  
